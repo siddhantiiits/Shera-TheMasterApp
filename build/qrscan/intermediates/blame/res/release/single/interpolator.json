@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/interpolator/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/8cd5bf7e42f959eccd7bb6326a5a06ba/material-1.0.0/res/interpolator/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/interpolator/mtrl_linear.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/8cd5bf7e42f959eccd7bb6326a5a06ba/material-1.0.0/res/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/interpolator/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/8cd5bf7e42f959eccd7bb6326a5a06ba/material-1.0.0/res/interpolator/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/interpolator/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/8cd5bf7e42f959eccd7bb6326a5a06ba/material-1.0.0/res/interpolator/mtrl_linear_out_slow_in.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/pulkitgoyal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/qrscan-0.2.17/android/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/mipmap-hdpi-v4/ic_light.png",
+        "source": "/Users/pulkitgoyal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/qrscan-0.2.17/android/src/main/res/mipmap-hdpi/ic_light.png"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/mipmap-hdpi-v4/ic_photo.png",
+        "source": "/Users/pulkitgoyal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/qrscan-0.2.17/android/src/main/res/mipmap-hdpi/ic_photo.png"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/mipmap-hdpi-v4/ic_back.png",
+        "source": "/Users/pulkitgoyal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/qrscan-0.2.17/android/src/main/res/mipmap-hdpi/ic_back.png"
+    }
+]

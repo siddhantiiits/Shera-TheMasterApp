@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/siddhanttiwari/Downloads/shera-master/Desktop/the_master_app-master/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/siddhanttiwari/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/siddhanttiwari/Downloads/shera-master/Desktop/the_master_app-master/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/siddhanttiwari/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/siddhanttiwari/Downloads/shera-master/Desktop/the_master_app-master/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/siddhanttiwari/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/siddhanttiwari/Downloads/shera-master/Desktop/the_master_app-master/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/siddhanttiwari/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/siddhanttiwari/Downloads/shera-master/Desktop/the_master_app-master/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/siddhanttiwari/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]

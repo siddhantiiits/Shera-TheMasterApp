@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/8cd5bf7e42f959eccd7bb6326a5a06ba/material-1.0.0/res/color-v23/design_tint_password_toggle.xml"
+    }
+]

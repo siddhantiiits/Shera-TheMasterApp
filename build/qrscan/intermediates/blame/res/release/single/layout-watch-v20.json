@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/9986d44680e4afa3fdc0b8aabdc01677/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

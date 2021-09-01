@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/fluttertoast/intermediates/res/merged/release/layout/toast_custom.xml",
+        "source": "/Users/pulkitgoyal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-7.0.4/android/src/main/res/layout/toast_custom.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/fluttertoast/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/fluttertoast/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/fluttertoast/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    }
+]

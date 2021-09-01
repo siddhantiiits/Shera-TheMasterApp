@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/8cd5bf7e42f959eccd7bb6326a5a06ba/material-1.0.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/qrscan/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/8cd5bf7e42f959eccd7bb6326a5a06ba/material-1.0.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

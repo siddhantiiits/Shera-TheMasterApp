@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/permission_handler/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/permission_handler/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/permission_handler/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/permission_handler/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/permission_handler/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

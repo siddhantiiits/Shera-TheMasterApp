@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638575590826",
+    "firebase_url": "https://appnotifi-47761.firebaseio.com",
+    "project_id": "appnotifi-47761",
+    "storage_bucket": "appnotifi-47761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638575590826:android:cbfeacdea67d85c7e1bfd3",
+        "android_client_info": {
+          "package_name": "com.webdevwithus.the_master_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638575590826-eebu19flgmtsorlelql33um8jnb1ghmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHCJbqDEuDi2K6_f5LDdgE7QMqI5aT68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638575590826-eebu19flgmtsorlelql33um8jnb1ghmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

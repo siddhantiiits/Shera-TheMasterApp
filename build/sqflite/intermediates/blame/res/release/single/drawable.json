@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/sqflite/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/sqflite/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/sqflite/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/pulkitgoyal/Downloads/the_master_app-master/build/sqflite/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/pulkitgoyal/.gradle/caches/transforms-2/files-2.1/96366b063e0c1dac8d3c608473f4a2e1/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]
